@@ -11,6 +11,6 @@ Text files used:
 1. "book_list1.txt"
 		This contains the list of books available in the library with details such as author, publisher, price, quantity, etc.
 2. "books_input.txt"
-		This is an empty text fil.e The books bought by customers will be automatically appended to this file.
+		This is an empty text file. The books bought by customers will be automatically appended to this file.
 2. "suggestions.txt"
 		This is an empty text file. The feedback given by the customers will be appended to this file.
